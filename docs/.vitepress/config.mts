@@ -48,12 +48,16 @@ export default defineConfig({
           { text: 'TODO', link: '/guide/api-todo' },
         ],
       },
+      {
+        text: '学生ID',
+        items: [{ text: '学生ID一览', link: 'guide/student-id-overview' }],
+      },
     ],
 
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/hanasa2023/arnona.hanasaki.tech',
+        link: 'https://github.com/hanasa2023/arnona-api',
       },
       {
         icon: 'x',
