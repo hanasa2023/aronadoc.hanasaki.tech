@@ -20,7 +20,7 @@ hero:
 
     - theme: alt
       text: 在Github上查看
-      link: https://github.com/hanasa2023/ba-api
+      link: https://github.com/hanasa2023/arona-api
 
 features:
   - icon: 📝

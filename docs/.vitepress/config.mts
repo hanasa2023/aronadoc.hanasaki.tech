@@ -57,7 +57,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/hanasa2023/arnona-api',
+        link: 'https://github.com/hanasa2023/arona-api',
       },
       {
         icon: 'x',
