@@ -28,8 +28,8 @@ features:
     details: 使用API快速构建BlueArchive服务
 
   - icon: ♿️
-    title: 功能丰富
-    details: 涵盖多种API
+    title: RESTful
+    details: 遵循RESTful API设计原则
 
   - icon: 🚀
     title: 本地化部署
