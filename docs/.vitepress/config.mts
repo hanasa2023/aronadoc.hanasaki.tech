@@ -10,7 +10,7 @@ export default defineConfig({
     logo: '/arona.svg',
     nav: [
       { text: '主页', link: '/' },
-      { text: 'API', link: '/api-overview' },
+      { text: 'API', link: '/guide/api-overview' },
     ],
     search: {
       provider: 'local',
