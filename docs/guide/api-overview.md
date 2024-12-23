@@ -10,6 +10,8 @@ layout: doc
 
 - [学生 Live2D](api-student.md#学生-live2d)
 
+- [学生生日分布图](api-student.md#学生生日分布图)
+
 - [攻略](api-strategy.md#杂项)
 
 - [关卡攻略](api-strategy.md#关卡攻略)

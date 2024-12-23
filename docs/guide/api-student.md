@@ -94,3 +94,22 @@ layout: doc
   }
 }
 ```
+
+## 学生生日分布图
+
+`GET /api/student/birthday/distribution`
+
+示例：`https://arona.hanasaki.tech/api/student/birthday/distribution`
+
+示例返回：
+
+```json
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "imgUrl": "https://aronacdn.hanasaki.tech/images/student-birthday/distribution.png",
+    "hash": "06a0911a045ef4a6ae491a0fca222afd55a4baa1b89b4f864123f24f9bb8dee3"
+  }
+}
+```
