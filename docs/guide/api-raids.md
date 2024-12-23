@@ -22,7 +22,18 @@ server: 1 为国服官服、2 为国服 B 服、3 为日服
 
 示例： `https://arona.hanasaki.tech/api/raid/line/1`
 
-示例返回：![国服总力战档线](/raids/1.png)
+示例返回：
+
+```json
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "imgUrl": "https://aronacdn.hanasaki.tech/images/raid-line/1.png",
+    "hash": "2aaec67f7a9bb7bc1a1ee789f3b408b406832339f3ffcadcf8b12c1aa04594ef"
+  }
+}
+```
 
 ## 指定期数的总力战档线（~~问题有点多~~）
 
