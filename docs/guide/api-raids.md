@@ -109,14 +109,7 @@ server: 1 为国服官服、2 为国服 B 服、3 为日服
   "code": 200,
   "message": "success",
   "data": {
-    "time": {
-      "code": 200,
-      "crypt": false,
-      "message": "success",
-      "data": 239.972,
-      "traceId": "6768b1017855e43fbc93dae0147e1574-bc93dae0147e1574",
-      "flowMillisecond": 1
-    }
+    "time": 239.972
   }
 }
 ```
