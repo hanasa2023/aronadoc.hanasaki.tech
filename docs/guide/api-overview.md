@@ -23,3 +23,15 @@ layout: doc
 - [dislike(illust)](api-image.md#dislike)
 
 - [BA meme](api-image.md#ba-meme)
+
+- [总力战档线](api-raids.md#总力战档线)
+
+- [指定期数的总力战档线](api-raids.md#指定期数的总力战档线问题有点多)
+
+- [总力战分数变化](api-raids.md#总力战分数变化)
+
+- [总力战参与人数变化](api-raids.md#总力战参与人数变化)
+
+- [总力战分数计算](api-raids.md#总力战分数计算)
+
+- [总力战时间计算](api-raids.md#总力战时间计算)

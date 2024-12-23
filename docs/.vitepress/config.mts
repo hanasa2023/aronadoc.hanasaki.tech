@@ -48,12 +48,16 @@ export default defineConfig({
           { text: '学生相关信息', link: '/guide/api-student' },
           { text: '攻略', link: '/guide/api-strategy' },
           { text: '插画（涩图）', link: '/guide/api-image' },
+          { text: '总力战', link: '/guide/api-raids' },
           { text: 'TODO', link: '/guide/api-todo' },
         ],
       },
       {
-        text: '学生ID',
-        items: [{ text: '学生ID一览', link: 'guide/student-id-overview' }],
+        text: 'ID速览',
+        items: [
+          { text: '学生ID一览', link: 'guide/student-id-overview' },
+          { text: 'BOSS ID一览', link: 'guide/boss-id-overview' },
+        ],
       },
     ],
 
