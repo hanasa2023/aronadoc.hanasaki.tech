@@ -10,6 +10,8 @@
 
 - [SchaleDB](https://schaledb.com)
 - [夜猫咪喵喵猫](https://space.bilibili.com/425535005)
+- [白夜清露](https://space.bilibili.com/35434465)
+- [什亭之匣](https://arona.icu)
 
 ## :hearts: 其他好用的 API 站点
 
